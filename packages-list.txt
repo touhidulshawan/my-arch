@@ -78,6 +78,7 @@ papirus-folders-gui-bin
 php
 polkit-gnome
 prettyping
+pcmanfm
 python-cairosvg
 python-pipenv
 python-pipx
