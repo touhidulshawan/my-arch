@@ -118,3 +118,9 @@ xorg-server
 xorg-xinit
 yaml-language-server
 zoom
+ranger
+atool
+elinks
+highlight 
+mediainfo 
+odt2txt
