@@ -158,7 +158,6 @@ picom
 pkgconf
 polkit-gnome
 prettyping
-protonvpn
 pulseaudio
 pulseaudio-alsa
 pulseaudio-bluetooth
