@@ -69,7 +69,6 @@ github-cli
 glow
 gnome-themes-extra
 google-chrome
-gopls
 gparted
 gpick
 grep
@@ -114,9 +113,12 @@ materia-gtk-theme
 mediainfo
 metasploit
 mlocate
+mpc
+mpd
 mpv
 mtr
 ncdu
+ncmpcpp
 neofetch
 neovim
 nerd-fonts-fira-code
@@ -196,6 +198,7 @@ terminus-font
 termshark
 texinfo
 thunar
+timidity++
 transmission-gtk
 ttf-fira-code
 ttf-font-awesome
