@@ -83,6 +83,7 @@ hcxdumptool
 hcxtools
 highlight
 hping
+httrack
 hunspell-en_us
 hydra
 hyphen-en
@@ -111,6 +112,7 @@ make
 man-db
 materia-gtk-theme
 mediainfo
+mesa-utils
 metasploit
 mlocate
 mpc
@@ -185,6 +187,7 @@ rshijack
 scrot
 sed
 shfmt
+skipfish
 smartmontools
 smbclient
 snort
