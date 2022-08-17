@@ -159,12 +159,11 @@ pcmanfm
 perl-file-mimeinfo
 php
 picom
+pipewire-alsa
+pipewire-pulse
 pkgconf
 polkit-gnome
 prettyping
-pulseaudio
-pulseaudio-alsa
-pulseaudio-bluetooth
 pyrit
 python-cairosvg
 python-mutagen
