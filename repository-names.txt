@@ -1,7 +1,9 @@
 alacritty
 awesome
-fish
 mpv
 nvim
 picom
 rofi
+mpd
+ncmpcpp
+ranger

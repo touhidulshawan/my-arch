@@ -157,6 +157,7 @@ pipewire-pulse
 pkgconf
 polkit-gnome
 prettyping
+pyright
 pyrit
 python
 python-cairosvg
