@@ -185,7 +185,6 @@ social-engineer-toolkit
 sqlmap
 starship
 sudo
-sxiv
 telegram-desktop
 terminus-font
 termshark
@@ -193,6 +192,7 @@ texinfo
 thunar
 timidity++
 transmission-gtk
+trash-cli
 ttf-fira-code
 ttf-font-awesome
 ttf-freebanglafont
