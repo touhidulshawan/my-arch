@@ -97,7 +97,6 @@ kvantum-theme-materia
 libpulse
 libtool
 libva-intel-driver
-linux
 linux-firmware
 linux-lts
 linux-lts-headers
