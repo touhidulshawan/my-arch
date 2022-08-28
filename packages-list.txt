@@ -28,6 +28,7 @@ bully
 burpsuite
 catfish
 cmake
+colloid-cursors-git
 copyq
 cowpatty
 crunch
@@ -56,7 +57,6 @@ firefox
 fish
 fisher
 flex
-fluent-cursor-theme-git
 fzf
 gawk
 gcc
@@ -94,12 +94,15 @@ john
 jq
 kvantum
 kvantum-theme-materia
+libgepub
+libgsf
+libopenraw
 libpulse
 libtool
 libva-intel-driver
+linux
 linux-firmware
-linux-lts
-linux-lts-headers
+linux-headers
 lua-language-server
 lxappearance-gtk3
 m4
@@ -121,11 +124,8 @@ ncdu
 ncmpcpp
 neofetch
 neovim
-nerd-fonts-fira-code
 nerd-fonts-hack
-nerd-fonts-hasklig
 nerd-fonts-jetbrains-mono
-nerd-fonts-sf-mono
 network-manager-applet
 networkmanager
 nikto
@@ -133,6 +133,7 @@ ninja
 nitrogen
 nmap
 nomacs
+noto-fonts
 noto-fonts-emoji
 ntfs-3g
 nvim-packer-git
@@ -190,14 +191,13 @@ terminus-font
 termshark
 texinfo
 thunar
+thunar-volman
 timidity++
 transmission-gtk
 trash-cli
-ttf-fira-code
 ttf-font-awesome
 ttf-freebanglafont
 ttf-liberation
-ttf-ms-fonts
 ttf-roboto
 tumbler
 ueberzug
@@ -205,6 +205,7 @@ unrar
 vagrant
 virt-manager
 virtualbox
+virtualbox-host-modules-arch
 vulkan-intel
 wget
 whatweb
