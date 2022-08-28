@@ -181,7 +181,6 @@ shfmt
 skipfish
 slock
 smartmontools
-snort
 social-engineer-toolkit
 sqlmap
 starship
