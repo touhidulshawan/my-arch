@@ -29,7 +29,7 @@ def install_apps():
 
         for app in apps_data:
             print(f"[+] installing {app}")
-            os.system(f"yay --noconfirm -S {app} ")
+            os.system(f"yay -S {app} ")
         apps_data.close()
     except Exception:
         print(sys.exc_info())
