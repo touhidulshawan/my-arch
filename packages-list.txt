@@ -71,7 +71,6 @@ gparted
 gpick
 grep
 groff
-gruvbox-material-gtk-theme-git
 gst-plugin-pipewire
 gtk-engine-murrine
 gtk4
