@@ -1,8 +1,10 @@
 acpilight
 adobe-source-han-sans-kr-fonts
 alacritty
+android-tools
 apache
 archlinux-keyring
+asciinema
 aspell
 aspell-en
 atool
@@ -21,6 +23,7 @@ binutils
 bison
 bluez
 bluez-utils
+brave-bin
 bridge-utils
 btop
 btrfs-progs
@@ -40,7 +43,6 @@ edk2-ovmf
 efibootmgr
 elinks
 emacs
-emote
 ettercap-gtk
 evince
 exa
@@ -98,6 +100,8 @@ libopenraw
 libpulse
 libtool
 libva-intel-driver
+libva-utils
+libva-vdpau-driver
 linux
 linux-firmware
 linux-headers
@@ -117,7 +121,6 @@ mpc
 mpd
 mpv
 mtr
-nano
 ncdu
 ncmpcpp
 neofetch
@@ -142,7 +145,8 @@ openvpn
 optipng
 pa-applet-git
 pacman
-papirus-folders-gui-bin
+papirus-folders
+papirus-icon-theme
 patch
 pcmanfm
 perl-file-mimeinfo
@@ -160,6 +164,7 @@ pyrit
 python
 python-cairosvg
 python-mutagen
+python-pipenv
 python-pipx
 python-pynvim
 python-xattr
@@ -183,7 +188,6 @@ social-engineer-toolkit
 sqlmap
 starship
 sudo
-telegram-desktop
 terminus-font
 termshark
 texinfo
@@ -200,22 +204,21 @@ tumbler
 ueberzug
 unrar
 vagrant
+vdpauinfo
 virt-manager
 virtualbox
-virtualbox-host-modules-arch
 vulkan-intel
 wget
 whatweb
 which
 whois
 wifite
-wireless_tools
 wireplumber
 wireshark-qt
 xclip
 xcolor
 xdg-user-dirs
-xdg-utils
+xdotool
 xorg-server
 xorg-xinit
 xsel
