@@ -65,6 +65,8 @@ def setup_fish():
         default_shell()
         os.system("su root")
         default_shell()
+        os.system("exec fish")
+        os.system("ssh-add")
     except Exception:
         print(sys.exc_info())
 
@@ -83,8 +85,32 @@ def clone_dotfiles():
         print(sys.exc_info())
 
 
-install_yay()
-install_apps()
-config_gh()
-setup_fish()
-clone_dotfiles()
+while True:
+    print(
+        """
+    1. install yay
+    2. install applications
+    3. config github-cli
+    4. setup fish shell
+    5. clone all dotfiles in $HOME/.config
+    6. exit the program
+    """
+    )
+
+    user_choice = int(input("Enter choice: "))
+
+    if user_choice == 1:
+        install_yay()
+    elif user_choice == 2:
+        install_apps()
+    elif user_choice == 3:
+        config_gh()
+    elif user_choice == 4:
+        setup_fish()
+    elif user_choice == 5:
+        clone_dotfiles()
+    elif user_choice == 6:
+        print("Exiting the program... bye!!")
+        exit()
+    else:
+        print("Wrong choice!! Try again")

@@ -43,6 +43,7 @@ edk2-ovmf
 efibootmgr
 elinks
 emacs
+emote
 ettercap-gtk
 evince
 exa
@@ -72,6 +73,7 @@ gparted
 gpick
 grep
 groff
+gruvbox-material-gtk-theme-git
 gst-plugin-pipewire
 gtk-engine-murrine
 gtk4
@@ -143,6 +145,7 @@ onefetch
 openbsd-netcat
 openvpn
 optipng
+otf-openmoji
 pa-applet-git
 pacman
 papirus-folders
