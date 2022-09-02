@@ -3,8 +3,9 @@
 import os
 import sys
 
-
-config_dir = "/home/shawan/.config"
+home_dir = os.path.expanduser("~")
+config_dir = f"{home_dir}/.config"
+print(config_dir)
 
 # install yay
 
@@ -13,6 +14,7 @@ def install_yay():
     try:
         os.system("sudo pacman -S --needed git base-devel")
         print("[+] installing yay...")
+        os.chdir(home_dir)
         os.system("git clone https://aur.archlinux.org/yay.git")
         os.system("mv ./yay/PKGBUILD ./")
         os.system("makepkg -si")
