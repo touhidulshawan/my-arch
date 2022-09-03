@@ -12,6 +12,7 @@ auto-cpufreq
 autoconf
 automake
 awesome
+awesome-freedesktop-git
 base
 bash-completion
 bashmount
@@ -96,6 +97,7 @@ john
 jq
 kvantum
 kvantum-theme-materia
+lain-git
 libgepub
 libgsf
 libopenraw
@@ -154,6 +156,7 @@ patch
 pcmanfm
 perl-file-mimeinfo
 php
+picard
 picom
 pipewire
 pipewire-alsa
