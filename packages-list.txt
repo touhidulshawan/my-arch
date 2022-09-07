@@ -30,7 +30,6 @@ btop
 btrfs-progs
 bully
 burpsuite
-catfish
 cmake
 colloid-cursors-git
 copyq
@@ -74,7 +73,6 @@ gparted
 gpick
 grep
 groff
-gruvbox-material-gtk-theme-git
 gst-plugin-pipewire
 gtk-engine-murrine
 gtk4
@@ -124,6 +122,7 @@ mlocate
 mpc
 mpd
 mpv
+mpv-thumbnail-script
 mtr
 ncdu
 ncmpcpp
@@ -151,7 +150,7 @@ otf-openmoji
 pa-applet-git
 pacman
 papirus-folders
-papirus-icon-theme
+papirus-icon-theme-git
 patch
 pcmanfm
 perl-file-mimeinfo
@@ -197,8 +196,6 @@ sudo
 terminus-font
 termshark
 texinfo
-thunar
-thunar-volman
 timidity++
 transmission-gtk
 trash-cli
@@ -225,6 +222,7 @@ xclip
 xcolor
 xdg-user-dirs
 xdotool
+xf86-video-intel
 xorg-server
 xorg-xinit
 xsel
