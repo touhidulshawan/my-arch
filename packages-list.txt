@@ -121,7 +121,6 @@ mlocate
 mpc
 mpd
 mpv
-mpv-thumbnail-script
 mtr
 ncdu
 ncmpcpp
