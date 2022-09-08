@@ -114,7 +114,6 @@ macchanger
 maim
 make
 man-db
-materia-gtk-theme
 mediainfo
 mesa-utils
 metasploit
@@ -163,6 +162,8 @@ pipewire-jack
 pipewire-pulse
 pkgconf
 polkit-gnome
+pop-gtk-theme
+pop-icon-theme
 prettyping
 pyright
 pyrit
