@@ -197,6 +197,7 @@ sudo
 terminus-font
 termshark
 texinfo
+thunar
 timidity++
 transmission-gtk
 trash-cli
@@ -209,6 +210,7 @@ ueberzug
 unrar
 vagrant
 vdpauinfo
+vimix-gtk-themes
 virt-manager
 virtualbox
 vulkan-intel
