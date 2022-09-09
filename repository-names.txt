@@ -6,4 +6,3 @@ picom
 rofi
 mpd
 ncmpcpp
-ranger

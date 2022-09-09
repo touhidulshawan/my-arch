@@ -176,7 +176,6 @@ python-pynvim
 python-xattr
 qemu-desktop
 qt5ct
-ranger
 reaver
 redis
 ripgrep
@@ -197,7 +196,6 @@ sudo
 terminus-font
 termshark
 texinfo
-thunar
 timidity++
 transmission-gtk
 trash-cli
