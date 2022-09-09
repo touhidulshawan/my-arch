@@ -57,6 +57,7 @@ file
 file-roller
 findutils
 firefox
+firefox-developer-edition
 fish
 fisher
 flex
@@ -68,6 +69,7 @@ gimp
 git
 github-cli
 glow
+gnome-icon-theme-extras
 gnome-themes-extra
 gparted
 gpick
@@ -162,7 +164,6 @@ pipewire-pulse
 pkgconf
 polkit-gnome
 pop-gtk-theme
-pop-icon-theme
 prettyping
 pyright
 pyrit
