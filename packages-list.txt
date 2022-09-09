@@ -193,6 +193,7 @@ social-engineer-toolkit
 sqlmap
 starship
 sudo
+szyszka-bin
 terminus-font
 termshark
 texinfo
