@@ -136,7 +136,6 @@ nikto
 ninja
 nitrogen
 nmap
-nomacs
 noto-fonts
 noto-fonts-emoji
 ntfs-3g
@@ -193,13 +192,13 @@ social-engineer-toolkit
 sqlmap
 starship
 sudo
+sxiv
 szyszka-bin
 terminus-font
 termshark
 texinfo
 timidity++
 transmission-gtk
-trash-cli
 ttf-font-awesome
 ttf-freebanglafont
 ttf-liberation
