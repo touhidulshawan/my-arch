@@ -111,6 +111,7 @@ linux-firmware
 linux-headers
 lua-language-server
 lxappearance-gtk3
+lxsession-gtk3
 m4
 macchanger
 maim
@@ -161,8 +162,6 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 pkgconf
-polkit-gnome
-pop-gtk-theme
 prettyping
 pyright
 pyrit
@@ -208,7 +207,6 @@ ueberzug
 unrar
 vagrant
 vdpauinfo
-vimix-gtk-themes
 virt-manager
 virtualbox
 vulkan-intel
