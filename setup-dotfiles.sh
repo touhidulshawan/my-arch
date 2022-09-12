@@ -4,9 +4,9 @@ mkdir "$HOME/dotfiles"
 
 git clone --bare git@github.com:touhidulshawan/dotfiles.git "$HOME/dotfiles"
 
-echo alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME' >>"$HOME/.bashrc"
-
-source "$HOME/.bashrc"
+config() {
+    /usr/bin/git --git-dir="$HOME/.dotfiles/ --work-tree=$HOME" "$@"
+}
 
 config checkout
 config config status.showUntrackedFiles no
