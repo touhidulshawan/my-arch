@@ -5,7 +5,7 @@ mkdir "$HOME/dotfiles"
 git clone --bare git@github.com:touhidulshawan/dotfiles.git "$HOME/dotfiles"
 
 config() {
-    /usr/bin/git --git-dir="$HOME/dotfiles/ --work-tree=$HOME" "$@"
+    /usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME $@
 }
 
 config checkout
