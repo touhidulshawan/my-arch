@@ -1,8 +1,1 @@
-alacritty
-awesome
-mpv
-nvim
-picom
-rofi
-mpd
-ncmpcpp
+dotfiles
