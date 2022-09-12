@@ -48,7 +48,7 @@ emote
 ettercap-gtk
 evince
 exa
-exfat-utils
+exfatprogs
 exploitdb
 fakeroot
 fd
