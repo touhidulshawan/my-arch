@@ -113,6 +113,7 @@ libva-vdpau-driver
 linux
 linux-firmware
 linux-headers
+lolcat
 lua-language-server
 lxappearance-gtk3
 lxsession-gtk3
@@ -124,6 +125,7 @@ man-db
 marked
 mdcat
 mediainfo
+meld
 mesa-utils
 metasploit
 mlocate
@@ -209,7 +211,7 @@ terminus-font
 termshark
 texinfo
 tidy
-timidity++
+traceroute
 transmission-gtk
 ttf-font-awesome
 ttf-freebanglafont
