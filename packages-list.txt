@@ -59,7 +59,6 @@ file
 file-roller
 findutils
 firefox
-firefox-developer-edition
 fish
 fisher
 flex
@@ -139,6 +138,7 @@ neofetch
 neovim
 nerd-fonts-hack
 nerd-fonts-jetbrains-mono
+netdiscover
 network-manager-applet
 networkmanager
 nikto
