@@ -30,6 +30,7 @@ btop
 btrfs-progs
 bully
 burpsuite
+catfish
 cmake
 colloid-cursors-git
 copyq
@@ -121,6 +122,8 @@ macchanger
 maim
 make
 man-db
+mariadb
+mariadb-clients
 marked
 mdcat
 mediainfo
@@ -149,6 +152,7 @@ noto-fonts
 noto-fonts-emoji
 ntfs-3g
 nvim-packer-git
+obs-studio
 odt2txt
 onefetch
 openbsd-netcat
@@ -160,9 +164,12 @@ pacman
 papirus-folders
 papirus-icon-theme-git
 patch
-pcmanfm-gtk3
 perl-file-mimeinfo
 php
+php-apache
+php-cgi
+php-gd
+php-pgsql
 picard
 picom
 pipewire
@@ -186,6 +193,7 @@ python-xattr
 qemu-desktop
 qt5ct
 ranger
+rbenv
 reaver
 redis
 ripgrep
@@ -193,6 +201,7 @@ rockyou
 rofi
 rot13
 rshijack
+ruby-build
 scrot
 sed
 shellcheck
@@ -206,10 +215,12 @@ starship
 stylelint
 sudo
 sxiv
-szyszka-bin
 terminus-font
 termshark
 texinfo
+thunar
+thunar-archive-plugin
+thunar-volman
 tidy
 traceroute
 transmission-gtk
@@ -236,7 +247,6 @@ xclip
 xcolor
 xdg-user-dirs
 xdotool
-xf86-video-intel
 xorg-server
 xorg-xinit
 xsel
