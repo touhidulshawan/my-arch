@@ -56,10 +56,12 @@ fd
 feh
 ffmpeg4.4
 ffmpegthumbnailer
+ffuf-bin
 file
 file-roller
 findutils
 firefox
+firefox-developer-edition
 fish
 fisher
 flex
@@ -73,6 +75,8 @@ github-cli
 glow
 gnome-icon-theme-extras
 gnome-themes-extra
+go
+gopls
 gparted
 gpick
 grep
@@ -146,7 +150,6 @@ network-manager-applet
 networkmanager
 nikto
 ninja
-nitrogen
 nmap
 noto-fonts
 noto-fonts-emoji
@@ -154,6 +157,7 @@ ntfs-3g
 nvim-packer-git
 obs-studio
 odt2txt
+olive-git
 onefetch
 openbsd-netcat
 openvpn
@@ -179,7 +183,6 @@ pipewire-pulse
 pkgconf
 prettyping
 pyright
-pyrit
 python
 python-cairosvg
 python-isort
@@ -193,9 +196,9 @@ python-xattr
 qemu-desktop
 qt5ct
 ranger
-rbenv
 reaver
 redis
+remmina
 ripgrep
 rockyou
 rofi
@@ -213,6 +216,7 @@ social-engineer-toolkit
 sqlmap
 starship
 stylelint
+sublist3r-git
 sudo
 sxiv
 terminus-font
