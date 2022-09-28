@@ -168,6 +168,7 @@ pacman
 papirus-folders
 papirus-icon-theme-git
 patch
+pcmanfm-gtk3
 perl-file-mimeinfo
 php
 php-apache
@@ -219,12 +220,10 @@ stylelint
 sublist3r-git
 sudo
 sxiv
+szyszka-bin
 terminus-font
 termshark
 texinfo
-thunar
-thunar-archive-plugin
-thunar-volman
 tidy
 traceroute
 transmission-gtk
@@ -251,6 +250,7 @@ xclip
 xcolor
 xdg-user-dirs
 xdotool
+xf86-video-intel
 xorg-server
 xorg-xinit
 xsel
