@@ -1,6 +1,7 @@
 acpilight
 adobe-source-han-sans-kr-fonts
 alacritty
+amass
 android-tools
 apache
 archlinux-keyring
@@ -31,11 +32,14 @@ btrfs-progs
 bully
 burpsuite
 catfish
+cherrytree
 cmake
 colloid-cursors-git
 copyq
 cowpatty
 crunch
+datagrip
+datagrip-jre
 dirb
 dirbuster
 dirbuster-wordlists
@@ -76,6 +80,7 @@ glow
 gnome-icon-theme-extras
 gnome-themes-extra
 go
+gobuster
 gopls
 gparted
 gpick
@@ -92,6 +97,7 @@ hcxdumptool
 hcxtools
 highlight
 hping
+httprobe-bin
 httrack
 hunspell-en_us
 hydra
@@ -183,6 +189,7 @@ pipewire-jack
 pipewire-pulse
 pkgconf
 prettyping
+protonvpn-cli
 pyright
 python
 python-cairosvg
@@ -193,10 +200,10 @@ python-pipx
 python-pyflakes
 python-pynvim
 python-pytest
+python-shodan
 python-xattr
 qemu-desktop
 qt5ct
-ranger
 reaver
 redis
 remmina
@@ -239,6 +246,7 @@ vdpauinfo
 virt-manager
 virtualbox
 vulkan-intel
+waybackurls
 wget
 whatweb
 which
