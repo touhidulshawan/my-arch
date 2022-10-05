@@ -224,6 +224,8 @@ social-engineer-toolkit
 sqlmap
 starship
 stylelint
+stylua
+subliminal
 sublist3r-git
 sudo
 sxiv
