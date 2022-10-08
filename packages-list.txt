@@ -27,6 +27,7 @@ bluez
 bluez-utils
 brave-bin
 bridge-utils
+brillo
 btop
 btrfs-progs
 bully
@@ -35,6 +36,7 @@ catfish
 cherrytree
 cmake
 colloid-cursors-git
+composer
 copyq
 cowpatty
 crunch
@@ -124,6 +126,7 @@ linux
 linux-firmware
 linux-headers
 lolcat
+ltris
 lua-language-server
 lxappearance-gtk3
 lxsession-gtk3
@@ -212,7 +215,6 @@ rockyou
 rofi
 rot13
 rshijack
-ruby-build
 scrot
 sed
 shellcheck
@@ -226,8 +228,9 @@ starship
 stylelint
 stylua
 subliminal
-sublist3r-git
 sudo
+supertux
+supertuxkart
 sxiv
 szyszka-bin
 terminus-font
@@ -239,6 +242,7 @@ transmission-gtk
 ttf-font-awesome
 ttf-freebanglafont
 ttf-liberation
+ttf-nerd-fonts-symbols-1000-em
 ttf-roboto
 tumbler
 ueberzug
