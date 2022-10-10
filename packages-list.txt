@@ -25,7 +25,6 @@ binutils
 bison
 bluez
 bluez-utils
-brave-bin
 bridge-utils
 brillo
 btop
@@ -67,7 +66,7 @@ file
 file-roller
 findutils
 firefox
-firefox-developer-edition
+firefox-profile-switcher-connector
 fish
 fisher
 flex
@@ -177,7 +176,6 @@ pacman
 papirus-folders
 papirus-icon-theme-git
 patch
-pcmanfm-gtk3
 perl-file-mimeinfo
 php
 php-apache
@@ -232,10 +230,11 @@ sudo
 supertux
 supertuxkart
 sxiv
-szyszka-bin
 terminus-font
 termshark
 texinfo
+thunar
+thunar-volman
 tidy
 traceroute
 transmission-gtk
@@ -264,7 +263,6 @@ xclip
 xcolor
 xdg-user-dirs
 xdotool
-xf86-video-intel
 xorg-server
 xorg-xinit
 xsel
