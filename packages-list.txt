@@ -256,7 +256,6 @@ wget
 whatweb
 which
 whois
-wifite
 wireplumber
 wireshark-qt
 xclip
@@ -270,4 +269,3 @@ xterm
 yaml-language-server
 yay
 yt-dlp
-zoom
