@@ -61,7 +61,7 @@ fd
 feh
 ffmpeg4.4
 ffmpegthumbnailer
-ffuf-bin
+ffuf
 file
 file-roller
 findutils
