@@ -1,6 +1,7 @@
 acpilight
 adobe-source-han-sans-kr-fonts
 alacritty
+alsa-utils
 amass
 android-tools
 apache
@@ -104,6 +105,7 @@ hunspell-en_us
 hydra
 hyphen-en
 inkscape
+intel-gpu-tools
 intel-media-driver
 intel-ucode
 iwd
@@ -118,12 +120,14 @@ libgsf
 libopenraw
 libpulse
 libtool
+libusb-compat
 libva-intel-driver
 libva-utils
 libva-vdpau-driver
 linux
 linux-firmware
 linux-headers
+lldb
 lolcat
 ltris
 lua-language-server
@@ -213,6 +217,7 @@ rockyou
 rofi
 rot13
 rshijack
+rtmpdump
 scrot
 sed
 shellcheck
@@ -251,6 +256,7 @@ vdpauinfo
 virt-manager
 virtualbox
 vulkan-intel
+vulkan-mesa-layers
 waybackurls
 wget
 whatweb
