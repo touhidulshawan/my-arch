@@ -17,6 +17,7 @@ awesome
 awesome-freedesktop-git
 base
 bash-completion
+bash-language-server
 bashmount
 bat
 bettercap
