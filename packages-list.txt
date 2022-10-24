@@ -120,6 +120,8 @@ libgepub
 libgsf
 libopenraw
 libpulse
+libreoffice-extension-languagetool
+libreoffice-fresh
 libtool
 libusb-compat
 libva-intel-driver
@@ -247,8 +249,10 @@ ttf-font-awesome
 ttf-freebanglafont
 ttf-hack-nerd
 ttf-liberation
+ttf-ms-fonts
 ttf-nerd-fonts-symbols-1000-em
 ttf-roboto
+ttf-vista-fonts
 tumbler
 ueberzug
 unrar
