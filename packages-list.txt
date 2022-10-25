@@ -171,7 +171,6 @@ ntfs-3g
 nvim-packer-git
 obs-studio
 odt2txt
-olive-git
 onefetch
 openbsd-netcat
 openvpn
@@ -237,6 +236,7 @@ sudo
 supertux
 supertuxkart
 sxiv
+tenacity-wxgtk3-git
 terminus-font
 termshark
 texinfo
