@@ -6,6 +6,7 @@ amass
 android-tools
 apache
 archlinux-keyring
+arp-scan
 asciinema
 aspell
 aspell-en
@@ -66,9 +67,9 @@ ffmpegthumbnailer
 ffuf
 file
 file-roller
+filezilla
 findutils
 firefox
-firefox-profile-switcher-connector
 fish
 fisher
 flex
@@ -131,7 +132,6 @@ linux
 linux-firmware
 linux-headers
 lldb
-lolcat
 ltris
 lua-language-server
 lxappearance-gtk3
