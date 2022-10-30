@@ -76,6 +76,7 @@ flex
 fzf
 gawk
 gcc
+gdb
 gettext
 gimp
 git
@@ -180,6 +181,7 @@ pa-applet-git
 pacman
 papirus-folders
 papirus-icon-theme-git
+paru
 patch
 perl-file-mimeinfo
 php
@@ -219,6 +221,7 @@ rofi
 rot13
 rshijack
 rtmpdump
+rust
 scrot
 sed
 shellcheck
@@ -278,5 +281,4 @@ xorg-xinit
 xsel
 xterm
 yaml-language-server
-yay
 yt-dlp
