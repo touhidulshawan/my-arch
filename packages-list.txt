@@ -67,7 +67,6 @@ ffmpegthumbnailer
 ffuf
 file
 file-roller
-filezilla
 findutils
 firefox
 fish
@@ -163,6 +162,7 @@ nerd-fonts-jetbrains-mono
 netdiscover
 network-manager-applet
 networkmanager
+nfs-utils
 nikto
 ninja
 nmap
