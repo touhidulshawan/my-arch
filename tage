@@ -1,0 +1,36 @@
+[37mdiff --git a/packages-list.txt b/packages-list.txt[m
+[37mindex f2bf643..ead2869 100644[m
+[37m--- a/packages-list.txt[m
+[37m+++ b/packages-list.txt[m
+[1;7;36m@@ -62,6 +62,7 @@[m [m[36mexploitdb[m
+ fakeroot[m
+ fd[m
+ feh[m
+[32m+[m[32mferoxbuster[m
+ ffmpeg4.4[m
+ ffmpegthumbnailer[m
+ ffuf[m
+[1;7;36m@@ -196,6 +197,7 @@[m [m[36mpipewire-alsa[m
+ pipewire-jack[m
+ pipewire-pulse[m
+ pkgconf[m
+[32m+[m[32mprettier[m
+ prettyping[m
+ protonvpn-cli[m
+ pyright[m
+[1;7;36m@@ -215,6 +217,7 @@[m [m[36mqt5ct[m
+ reaver[m
+ redis[m
+ remmina[m
+[32m+[m[32mresponder[m
+ ripgrep[m
+ rockyou[m
+ rofi[m
+[1;7;36m@@ -257,6 +260,7 @@[m [m[36mttf-nerd-fonts-symbols-1000-em[m
+ ttf-roboto[m
+ ttf-vista-fonts[m
+ tumbler[m
+[32m+[m[32mtypescript-language-server[m
+ ueberzug[m
+ unrar[m
+ vagrant[m

@@ -62,6 +62,7 @@ exploitdb
 fakeroot
 fd
 feh
+feroxbuster
 ffmpeg4.4
 ffmpegthumbnailer
 ffuf
@@ -196,6 +197,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 pkgconf
+prettier
 prettyping
 protonvpn-cli
 pyright
@@ -215,6 +217,7 @@ qt5ct
 reaver
 redis
 remmina
+responder
 ripgrep
 rockyou
 rofi
@@ -257,6 +260,7 @@ ttf-nerd-fonts-symbols-1000-em
 ttf-roboto
 ttf-vista-fonts
 tumbler
+typescript-language-server
 ueberzug
 unrar
 vagrant
