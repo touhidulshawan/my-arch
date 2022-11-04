@@ -42,8 +42,6 @@ composer
 copyq
 cowpatty
 crunch
-datagrip
-datagrip-jre
 dirb
 dirbuster
 dirbuster-wordlists
@@ -239,10 +237,8 @@ stylelint
 stylua
 subliminal
 sudo
-supertux
 supertuxkart
 sxiv
-tenacity-wxgtk3-git
 terminus-font
 termshark
 texinfo
