@@ -213,7 +213,6 @@ python-xattr
 qemu-desktop
 qt5ct
 reaver
-redis
 remmina
 responder
 ripgrep
