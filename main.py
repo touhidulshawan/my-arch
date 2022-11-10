@@ -5,7 +5,8 @@ import sys
 
 home_dir = os.path.expanduser("~")
 config_dir = f"{home_dir}/.config"
-print(config_dir)
+current_directory = os.path.curdir
+print(current_directory)
 
 # install yay
 
@@ -31,7 +32,7 @@ def install_apps():
 
         for app in apps_data:
             print(f"[+] installing {app}")
-            os.system(f"yay -S {app} ")
+            os.system(f"yay --noconfirm -S {app}")
         apps_data.close()
     except Exception:
         print(sys.exc_info())
@@ -48,13 +49,22 @@ def config_gh():
         print(sys.exc_info())
 
 
+def setup_config_files():
+    try:
+        print("[+] Configuring config files")
+        os.system(f"{current_directory}/setup-dotfiles.sh")
+    except Exception:
+        print(sys.exc_info())
+
+
 while True:
     print(
         """
     1. install yay
     2. install applications
     3. config github-cli
-    4. exit the program
+    4. setup config files
+    5. exit the program
     """
     )
 
@@ -67,6 +77,8 @@ while True:
     elif user_choice == 3:
         config_gh()
     elif user_choice == 4:
+        setup_config_files()
+    elif user_choice == 5:
         print("Exiting the program... bye!!")
         exit()
     else:
