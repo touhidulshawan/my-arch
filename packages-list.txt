@@ -180,7 +180,6 @@ pa-applet-git
 pacman
 papirus-folders
 papirus-icon-theme-git
-paru
 patch
 perl-file-mimeinfo
 php
@@ -221,7 +220,6 @@ rofi
 rot13
 rshijack
 rtmpdump
-rust
 scrot
 sed
 shellcheck
@@ -230,6 +228,7 @@ skipfish
 slock
 smartmontools
 social-engineer-toolkit
+soundconverter
 sqlmap
 starship
 stylelint
@@ -280,4 +279,5 @@ xorg-xinit
 xsel
 xterm
 yaml-language-server
+yay
 yt-dlp
