@@ -47,6 +47,7 @@ dirbuster
 dirbuster-wordlists
 dnsmasq
 dust
+easytag
 edk2-ovmf
 efibootmgr
 elinks
@@ -113,6 +114,7 @@ iwd
 john
 jq
 js-beautify
+kismet
 kvantum
 kvantum-theme-materia
 lain-git
@@ -219,6 +221,7 @@ rockyou
 rofi
 rot13
 rshijack
+rsync
 rtmpdump
 scrot
 sed
@@ -257,7 +260,6 @@ tumbler
 typescript-language-server
 ueberzug
 unrar
-vagrant
 vdpauinfo
 virt-manager
 virtualbox
@@ -268,6 +270,7 @@ wget
 whatweb
 which
 whois
+wifite
 wireplumber
 wireshark-qt
 xclip
