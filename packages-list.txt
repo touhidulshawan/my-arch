@@ -4,6 +4,7 @@ alacritty
 alsa-utils
 amass
 android-tools
+anydesk-bin
 apache
 archlinux-keyring
 arp-scan
@@ -54,7 +55,6 @@ elinks
 emacs-nativecomp
 emote
 ettercap-gtk
-evince
 exa
 exfatprogs
 exploitdb
@@ -66,7 +66,6 @@ ffmpeg4.4
 ffmpegthumbnailer
 ffuf
 file
-file-roller
 findutils
 firefox
 fish
@@ -94,6 +93,7 @@ gruvbox-material-gtk-theme-git
 gst-plugin-pipewire
 gtk-engine-murrine
 gtk4
+gvfs
 gvfs-mtp
 gzip
 hashcat
@@ -178,6 +178,7 @@ openbsd-netcat
 openvpn
 optipng
 otf-openmoji
+p7zip
 pa-applet-git
 pacman
 papirus-folders
@@ -244,7 +245,6 @@ terminus-font
 termshark
 texinfo
 thunar
-thunar-volman
 tidy
 traceroute
 transmission-gtk
@@ -258,6 +258,7 @@ ttf-roboto
 ttf-vista-fonts
 tumbler
 typescript-language-server
+udisks2
 ueberzug
 unrar
 vdpauinfo
@@ -273,6 +274,7 @@ whois
 wifite
 wireplumber
 wireshark-qt
+xarchiver
 xclip
 xcolor
 xdg-user-dirs
@@ -284,3 +286,8 @@ xterm
 yaml-language-server
 yay
 yt-dlp
+zathura
+zathura-cb
+zathura-djvu
+zathura-pdf-poppler
+zip
