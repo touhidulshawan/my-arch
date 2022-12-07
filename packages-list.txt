@@ -4,7 +4,6 @@ alacritty
 alsa-utils
 amass
 android-tools
-anydesk-bin
 apache
 archlinux-keyring
 arp-scan
@@ -212,6 +211,7 @@ python-pynvim
 python-pytest
 python-shodan
 python-xattr
+qbittorrent
 qemu-desktop
 qt5ct
 reaver
@@ -247,7 +247,6 @@ texinfo
 thunar
 tidy
 traceroute
-transmission-gtk
 ttf-font-awesome
 ttf-freebanglafont
 ttf-hack-nerd
