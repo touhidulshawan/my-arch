@@ -76,6 +76,7 @@ gcc
 gdb
 gettext
 gimp
+gimp-plugin-gmic
 git
 github-cli
 glow
