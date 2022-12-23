@@ -245,7 +245,6 @@ sxiv
 terminus-font
 termshark
 texinfo
-thunar
 tidy
 traceroute
 ttf-font-awesome
