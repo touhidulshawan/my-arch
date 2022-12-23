@@ -65,6 +65,7 @@ ffmpeg4.4
 ffmpegthumbnailer
 ffuf
 file
+filezilla
 findutils
 firefox
 fish
@@ -242,6 +243,7 @@ subliminal
 sudo
 supertuxkart
 sxiv
+szyszka-bin
 terminus-font
 termshark
 texinfo
