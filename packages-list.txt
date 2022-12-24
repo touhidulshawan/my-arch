@@ -42,6 +42,7 @@ composer
 copyq
 cowpatty
 crunch
+debugedit
 dirb
 dirbuster
 dirbuster-wordlists
@@ -83,9 +84,7 @@ github-cli
 glow
 gnome-icon-theme-extras
 gnome-themes-extra
-go
 gobuster
-gopls
 gparted
 gpick
 grep
@@ -183,6 +182,7 @@ p7zip
 pa-applet-git
 pacman
 papirus-icon-theme-git
+paru
 patch
 perl-file-mimeinfo
 php
@@ -225,6 +225,8 @@ rot13
 rshijack
 rsync
 rtmpdump
+rust-analyzer
+rustup
 scrot
 sed
 shellcheck
@@ -284,7 +286,6 @@ xorg-xinit
 xsel
 xterm
 yaml-language-server
-yay
 yt-dlp
 zathura
 zathura-cb
