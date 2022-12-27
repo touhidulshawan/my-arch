@@ -46,6 +46,7 @@ debugedit
 dirb
 dirbuster
 dirbuster-wordlists
+diskonaut
 dnsmasq
 dust
 easytag
@@ -199,8 +200,10 @@ pipewire-pulse
 pkgconf
 prettier
 prettyping
+procs
 protonvpn-cli
 pyright
+pyrit
 python
 python-cairosvg
 python-isort
@@ -216,6 +219,7 @@ qbittorrent
 qemu-desktop
 qt5ct
 reaver
+recon-ng
 remmina
 responder
 ripgrep
@@ -226,6 +230,7 @@ rshijack
 rsync
 rtmpdump
 rust-analyzer
+rustscan
 rustup
 scrot
 sed
@@ -273,7 +278,7 @@ wget
 whatweb
 which
 whois
-wifite
+wifite2-git
 wireplumber
 wireshark-qt
 xarchiver
