@@ -14,10 +14,10 @@ print(current_directory)
 def install_paru():
     try:
         os.system("sudo pacman -S --needed git base-devel")
-        print("[+] installing paru...")
+        print("[+] installing yay...")
         os.chdir(home_dir)
-        os.system("git clone https://aur.archlinux.org/paru.git")
-        os.system("mv ./paru/PKGBUILD ./")
+        os.system("git clone https://aur.archlinux.org/yay.git")
+        os.system("mv ./yay/PKGBUILD ./")
         os.system("makepkg -si")
     except Exception:
         print(sys.exc_info())
@@ -32,7 +32,7 @@ def install_apps():
 
         for app in apps_data:
             print(f"[+] installing {app}")
-            os.system(f"paru --noconfirm -S {app}")
+            os.system(f"yay --noconfirm -S {app}")
         apps_data.close()
     except Exception:
         print(sys.exc_info())

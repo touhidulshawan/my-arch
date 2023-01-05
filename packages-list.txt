@@ -85,6 +85,7 @@ github-cli
 glow
 gnome-icon-theme-extras
 gnome-themes-extra
+go
 gobuster
 gparted
 gpick
@@ -198,6 +199,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 pkgconf
+postman-bin
 prettier
 prettyping
 procs
@@ -219,7 +221,6 @@ qbittorrent
 qemu-desktop
 qt5ct
 reaver
-recon-ng
 remmina
 responder
 ripgrep
@@ -255,6 +256,7 @@ termshark
 texinfo
 tidy
 traceroute
+trash-cli
 ttf-font-awesome
 ttf-freebanglafont
 ttf-hack-nerd
@@ -268,6 +270,7 @@ typescript-language-server
 udisks2
 ueberzug
 unrar
+vagrant
 vdpauinfo
 virt-manager
 virtualbox
