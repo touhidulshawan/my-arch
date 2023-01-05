@@ -11,7 +11,7 @@ print(current_directory)
 # install yay
 
 
-def install_paru():
+def install_yay():
     try:
         os.system("sudo pacman -S --needed git base-devel")
         print("[+] installing yay...")
@@ -60,7 +60,7 @@ def setup_config_files():
 while True:
     print(
         """
-    1. install paru
+    1. install yay
     2. install applications
     3. config github-cli
     4. setup config files
@@ -71,7 +71,7 @@ while True:
     user_choice = int(input("Enter choice: "))
 
     if user_choice == 1:
-        install_paru()
+        install_yay()
     elif user_choice == 2:
         install_apps()
     elif user_choice == 3:
