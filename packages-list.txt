@@ -184,7 +184,6 @@ p7zip
 pa-applet-git
 pacman
 papirus-icon-theme-git
-paru
 patch
 perl-file-mimeinfo
 php
@@ -294,6 +293,7 @@ xorg-xinit
 xsel
 xterm
 yaml-language-server
+yay
 yt-dlp
 zathura
 zathura-cb
