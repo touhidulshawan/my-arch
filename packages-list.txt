@@ -183,6 +183,7 @@ otf-openmoji
 p7zip
 pa-applet-git
 pacman
+pandoc
 papirus-icon-theme-git
 patch
 perl-file-mimeinfo
