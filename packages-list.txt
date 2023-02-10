@@ -2,7 +2,6 @@ acpilight
 adobe-source-han-sans-kr-fonts
 alacritty
 alsa-utils
-amass
 android-tools
 apache
 archlinux-keyring
@@ -35,7 +34,6 @@ btrfs-progs
 bully
 burpsuite
 catfish
-cherrytree
 cmake
 colloid-cursors-git
 composer
@@ -69,7 +67,6 @@ ffmpeg4.4
 ffmpegthumbnailer
 ffuf
 file
-filezilla
 findutils
 firefox
 fish
@@ -89,7 +86,6 @@ glow
 gnome-icon-theme-extras
 gnome-themes-extra
 gnuplot
-go
 gobuster
 gparted
 gpick
@@ -104,6 +100,7 @@ gzip
 hashcat
 hcxdumptool
 hcxtools
+helium-gtk-theme
 highlight
 hping
 httprobe-bin
@@ -174,7 +171,6 @@ nmap
 noto-fonts
 noto-fonts-emoji
 ntfs-3g
-nvim-packer-git
 obs-studio
 odt2txt
 onefetch
@@ -185,11 +181,11 @@ otf-openmoji
 p7zip
 pa-applet-git
 pacman
-pandoc
+pandoc-cli
 papirus-folders-git
 papirus-icon-theme-git
+paru
 patch
-pcmanfm
 perl-file-mimeinfo
 php
 php-apache
@@ -203,7 +199,6 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 pkgconf
-postman-bin
 prettier
 prettyping
 procs
@@ -244,6 +239,7 @@ shfmt
 skipfish
 slock
 smartmontools
+smbclient
 social-engineer-toolkit
 soundconverter
 sqlmap
@@ -258,9 +254,20 @@ szyszka-bin
 terminus-font
 termshark
 texinfo
+texlive-bibtexextra
 texlive-bin
 texlive-core
+texlive-fontsextra
+texlive-formatsextra
+texlive-games
+texlive-humanities
+texlive-latexextra
+texlive-music
+texlive-pictures
+texlive-pstricks
+texlive-publishers
 texlive-science
+thunar
 tidy
 tor
 traceroute
@@ -279,7 +286,6 @@ typescript-language-server
 udisks2
 ueberzug
 unrar
-vagrant
 vdpauinfo
 virt-manager
 virtualbox
@@ -303,7 +309,6 @@ xorg-xinit
 xsel
 xterm
 yaml-language-server
-yay
 yt-dlp
 zathura
 zathura-cb
