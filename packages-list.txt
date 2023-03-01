@@ -2,6 +2,8 @@ acpilight
 adobe-source-han-sans-kr-fonts
 alacritty
 alsa-utils
+amass
+android-file-transfer
 android-tools
 apache
 archlinux-keyring
@@ -80,12 +82,14 @@ gdb
 gettext
 gimp
 gimp-plugin-gmic
+gimp-plugin-resynthesizer-git
 git
 github-cli
 glow
 gnome-icon-theme-extras
 gnome-themes-extra
 gnuplot
+go
 gobuster
 gparted
 gpick
@@ -267,7 +271,6 @@ texlive-pictures
 texlive-pstricks
 texlive-publishers
 texlive-science
-thunar
 tidy
 tor
 traceroute
