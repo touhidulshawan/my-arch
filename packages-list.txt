@@ -39,6 +39,7 @@ copyq
 cowpatty
 debugedit
 diskonaut
+dracula-gtk-theme
 dust
 easytag
 edk2-ovmf
@@ -97,6 +98,7 @@ jq
 js-beautify
 kvantum
 kvantum-theme-materia
+la-capitaine-icon-theme
 lain-git
 libgepub
 libgsf
@@ -214,6 +216,7 @@ subliminal
 sudo
 sxiv
 szyszka-bin
+tela-icon-theme
 terminus-font
 texinfo
 texlive-bibtexextra
