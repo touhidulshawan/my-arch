@@ -1,3 +1,4 @@
+ack
 acpilight
 adobe-source-han-sans-kr-fonts
 alacritty
@@ -17,6 +18,7 @@ autoconf
 automake
 awesome
 awesome-freedesktop-git
+bandwhich
 base
 bash-completion
 bash-language-server
@@ -43,7 +45,7 @@ cowpatty
 debugedit
 diskonaut
 dnsmasq
-dracula-gtk-theme
+duf
 dust
 easytag
 edk2-ovmf
@@ -74,6 +76,7 @@ gimp
 gimp-plugin-gmic
 gimp-plugin-resynthesizer-git
 git
+git-delta
 github-cli
 glow
 gnome-icon-theme-extras
@@ -82,6 +85,7 @@ gnuplot
 go
 gparted
 gpick
+gping
 grep
 groff
 gst-plugin-pipewire
@@ -93,6 +97,8 @@ gzip
 hashcat
 helium-gtk-theme
 highlight
+hping
+httpie
 hunspell-en_us
 hydra
 hyphen-en
@@ -106,7 +112,6 @@ jq
 js-beautify
 kvantum
 kvantum-theme-materia
-la-capitaine-icon-theme
 lain-git
 libgepub
 libgsf
@@ -153,6 +158,7 @@ neovim
 netdiscover
 network-manager-applet
 networkmanager
+networkmanager-openvpn
 nfs-utils
 ninja
 nmap
@@ -216,6 +222,7 @@ rsync
 rtmpdump
 rust-analyzer
 rustup
+scrot
 sed
 shfmt
 skipfish
@@ -232,7 +239,7 @@ subliminal
 sudo
 sxiv
 szyszka-bin
-tela-icon-theme
+tealdeer
 terminus-font
 texinfo
 texlive-bibtexextra
@@ -270,6 +277,7 @@ vdpauinfo
 virt-manager
 vulkan-intel
 vulkan-mesa-layers
+webkit2gtk
 wget
 which
 whois
@@ -292,3 +300,4 @@ zathura-cb
 zathura-djvu
 zathura-pdf-poppler
 zip
+zoxide
