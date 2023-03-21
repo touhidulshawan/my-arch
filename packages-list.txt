@@ -68,6 +68,7 @@ firefox
 fish
 fisher
 flex
+fnm
 fzf
 gawk
 gcc
@@ -102,7 +103,6 @@ hashcat
 helium-gtk-theme
 highlight
 hping
-httpie
 hunspell-en_us
 hydra
 hyphen-en
@@ -150,6 +150,7 @@ mediainfo
 meld
 mesa-utils
 metasploit
+miniserve
 mlocate
 mpc
 mpd
@@ -169,7 +170,6 @@ nmap
 noto-fonts
 noto-fonts-emoji
 ntfs-3g
-nvm
 obs-studio
 odt2txt
 onefetch
@@ -295,8 +295,10 @@ xclip
 xcolor
 xdg-user-dirs
 xdotool
+xh
 xorg-server
 xorg-xinit
+xorg-xwininfo
 xsel
 xterm
 yaml-language-server
