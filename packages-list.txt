@@ -170,6 +170,7 @@ nmap
 noto-fonts
 noto-fonts-emoji
 ntfs-3g
+nvim-packer-git
 obs-studio
 odt2txt
 onefetch
@@ -177,15 +178,16 @@ openbsd-netcat
 openvpn
 optipng
 otf-openmoji
+ouch
 p7zip
 pa-applet-git
 pacman
+pacman-contrib
 pandoc-cli
 papirus-folders-git
 papirus-icon-theme-git
 paru
 patch
-pcmanfm
 perl-file-mimeinfo
 php
 php-apache
@@ -260,6 +262,7 @@ texlive-pictures
 texlive-pstricks
 texlive-publishers
 texlive-science
+thunar
 tidy
 traceroute
 trash-cli
@@ -293,6 +296,7 @@ wpscan
 xarchiver
 xclip
 xcolor
+xcp
 xdg-user-dirs
 xdotool
 xh
