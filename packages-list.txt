@@ -38,6 +38,7 @@ bully
 burpsuite
 catfish
 cmake
+cmatrix
 colloid-cursors-git
 composer
 copyq
@@ -103,6 +104,7 @@ hashcat
 helium-gtk-theme
 highlight
 hping
+htmlunit
 hunspell-en_us
 hydra
 hyphen-en
@@ -132,6 +134,7 @@ libvirt
 linux
 linux-firmware
 linux-headers
+linux-lts
 lldb
 ltris
 lua-language-server
@@ -299,6 +302,7 @@ xcolor
 xcp
 xdg-user-dirs
 xdotool
+xfce4-power-manager
 xh
 xorg-server
 xorg-xinit
