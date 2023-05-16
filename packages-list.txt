@@ -145,6 +145,7 @@ linux-lts
 lldb
 ltris
 lua-language-server
+luarocks
 lxappearance-gtk3
 lxsession-gtk3
 m4
@@ -183,6 +184,7 @@ ntfs-3g
 nvim-packer-git
 obs-studio
 odt2txt
+olive-nightly-bin
 onefetch
 openbsd-netcat
 openvpn
@@ -205,6 +207,7 @@ php-apache
 php-cgi
 php-gd
 php-pgsql
+phpmyadmin
 picard
 picom
 pipewire
