@@ -48,6 +48,8 @@ debugedit
 direnv
 diskonaut
 dnsmasq
+docker
+docker-compose
 duf
 dust
 easytag
@@ -66,6 +68,7 @@ feh
 feroxbuster
 ffmpeg4.4
 ffmpegthumbnailer
+ffuf-git
 file
 findutils
 firefox
@@ -79,6 +82,7 @@ gawk
 gcc
 gdb
 gettext
+ghidra
 gimp
 gimp-extras
 gimp-plugin-beautify
@@ -92,6 +96,7 @@ gnome-icon-theme-extras
 gnome-themes-extra
 gnuplot
 go
+google-chrome
 gopls
 gparted
 gpick
@@ -123,6 +128,7 @@ jq
 js-beautify
 jupyter-notebook
 jupyterlab
+kiterunner-bin
 kvantum
 kvantum-theme-materia
 lain-git
@@ -184,7 +190,6 @@ ntfs-3g
 nvim-packer-git
 obs-studio
 odt2txt
-olive-nightly-bin
 onefetch
 openbsd-netcat
 openvpn
@@ -198,9 +203,7 @@ pacman-contrib
 pandoc-cli
 papirus-folders-git
 papirus-icon-theme-git
-paru
 patch
-pcmanfm
 perl-file-mimeinfo
 php
 php-apache
@@ -264,7 +267,6 @@ subfinder
 subliminal
 sudo
 sxiv
-szyszka-bin
 tealdeer
 terminus-font
 texinfo
@@ -281,6 +283,8 @@ texlive-pictures
 texlive-pstricks
 texlive-publishers
 texlive-science
+thunar
+thunar-volman
 tidy
 traceroute
 trash-cli
@@ -297,6 +301,7 @@ tumbler
 typescript-language-server
 udisks2
 ueberzug
+ufw
 unrar
 vagrant
 vdpauinfo
@@ -305,6 +310,7 @@ vulkan-intel
 vulkan-mesa-layers
 webkit2gtk
 wget
+whatweb
 which
 whois
 wifite
@@ -326,11 +332,13 @@ xorg-xwininfo
 xsel
 xterm
 yaml-language-server
+yay
 yt-dlp
 zaproxy
 zathura
 zathura-cb
 zathura-djvu
 zathura-pdf-poppler
+zenity
 zip
 zoxide
