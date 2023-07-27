@@ -6,6 +6,7 @@ alsa-utils
 amass-bin
 android-file-transfer
 android-tools
+anydesk-bin
 apache
 archlinux-keyring
 arp-scan
@@ -41,6 +42,7 @@ catfish
 cmake
 cmatrix
 colloid-cursors-git
+colloid-icon-theme-git
 composer
 copyq
 cowpatty
@@ -58,7 +60,6 @@ edk2-ovmf
 efibootmgr
 emacs-nativecomp
 emote
-evince-no-gnome
 exa
 exfatprogs
 exploitdb
@@ -76,7 +77,6 @@ fish
 fisher
 flake8
 flex
-fnm
 fzf
 gawk
 gcc
@@ -92,6 +92,7 @@ git
 git-delta
 github-cli
 glow
+gnome-icon-theme
 gnome-icon-theme-extras
 gnome-themes-extra
 gnuplot
@@ -114,6 +115,7 @@ helium-gtk-theme
 highlight
 hping
 htmlunit
+httrack
 hunspell-en_us
 hydra
 hyphen-en
@@ -125,7 +127,6 @@ intel-ucode
 iwd
 john
 jq
-js-beautify
 jupyter-notebook
 jupyterlab
 kiterunner-bin
@@ -224,6 +225,8 @@ pyrit
 python
 python-black
 python-cairosvg
+python-flake8-black
+python-flake8-docstrings
 python-isort
 python-lsp-server
 python-mutagen
@@ -231,6 +234,7 @@ python-pipenv
 python-pipx
 python-pydocstyle
 python-pyflakes
+python-pyftpdlib
 python-pylint
 python-pynvim
 python-pytest
@@ -240,6 +244,7 @@ python-whatthepatch
 python-xattr
 qbittorrent
 qemu-full
+qogir-icon-theme
 qt5ct
 reaver
 remmina
@@ -250,6 +255,7 @@ rot13
 rsync
 rtmpdump
 rustup
+sassc
 scrot
 sed
 shellcheck
@@ -270,19 +276,19 @@ sxiv
 tealdeer
 terminus-font
 texinfo
+texlive-basic
 texlive-bibtexextra
 texlive-bin
-texlive-core
 texlive-fontsextra
 texlive-formatsextra
 texlive-games
 texlive-humanities
 texlive-latexextra
+texlive-mathscience
 texlive-music
 texlive-pictures
 texlive-pstricks
 texlive-publishers
-texlive-science
 thunar
 thunar-volman
 tidy
@@ -295,6 +301,7 @@ ttf-jetbrains-mono-nerd
 ttf-liberation
 ttf-ms-fonts
 ttf-nerd-fonts-symbols
+ttf-nerd-fonts-symbols-mono
 ttf-roboto
 ttf-vista-fonts
 tumbler
@@ -320,7 +327,6 @@ wpscan
 xarchiver
 xclip
 xcolor
-xcp
 xdg-user-dirs
 xdotool
 xfce4-power-manager
