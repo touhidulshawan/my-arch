@@ -46,6 +46,7 @@ colloid-icon-theme-git
 composer
 copyq
 cowpatty
+cronie
 debugedit
 direnv
 diskonaut
@@ -145,6 +146,7 @@ libva-intel-driver
 libva-utils
 libva-vdpau-driver
 libvirt
+libxcrypt-compat
 linux
 linux-firmware
 linux-headers
@@ -182,6 +184,7 @@ netdiscover
 network-manager-applet
 networkmanager
 networkmanager-openvpn
+newsboat
 nfs-utils
 ninja
 nmap
@@ -244,7 +247,6 @@ python-whatthepatch
 python-xattr
 qbittorrent
 qemu-full
-qogir-icon-theme
 qt5ct
 reaver
 remmina
@@ -310,6 +312,7 @@ udisks2
 ueberzug
 ufw
 unrar
+urlscan
 vagrant
 vdpauinfo
 virt-manager
