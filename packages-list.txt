@@ -180,6 +180,8 @@ ncdu
 ncmpcpp
 neofetch
 neovim
+neovim-lsp_signature
+neovim-nvim-treesitter
 netdiscover
 network-manager-applet
 networkmanager
