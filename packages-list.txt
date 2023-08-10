@@ -118,6 +118,7 @@ hping
 htmlunit
 httrack
 hunspell-en_us
+hurl-bin
 hydra
 hyphen-en
 i2c-tools
@@ -181,7 +182,6 @@ ncmpcpp
 neofetch
 neovim
 neovim-lsp_signature
-neovim-nvim-treesitter
 netdiscover
 network-manager-applet
 networkmanager
@@ -203,7 +203,6 @@ optipng
 otf-openmoji
 ouch
 p7zip
-pa-applet-git
 pacman
 pacman-contrib
 pandoc-cli
@@ -226,6 +225,7 @@ pipewire-pulse
 pkgconf
 prettier
 procs
+pw-volume
 pyrit
 python
 python-black
