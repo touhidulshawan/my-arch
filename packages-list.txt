@@ -108,6 +108,7 @@ groff
 gst-plugin-pipewire
 gtk-engine-murrine
 gtk4
+gtkhash
 gvfs
 gvfs-mtp
 gzip

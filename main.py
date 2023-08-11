@@ -8,16 +8,16 @@ config_dir = f"{home_dir}/.config"
 current_directory = os.path.curdir
 print(current_directory)
 
-# install paru
+# install yay
 
 
-def install_paru():
+def install_yay():
     try:
         os.system("sudo pacman -S --needed git base-devel")
-        print("[+] installing paru...")
+        print("[+] installing yay...")
         os.chdir(home_dir)
-        os.system("git clone https://aur.archlinux.org/paru.git")
-        os.system("mv ./paru/PKGBUILD ./")
+        os.system("git clone https://aur.archlinux.org/yay.git")
+        os.system("mv ./yay/PKGBUILD ./")
         os.system("makepkg -si")
     except Exception:
         print(sys.exc_info())
@@ -32,7 +32,7 @@ def install_apps():
 
         for app in apps_data:
             print(f"[+] installing {app}")
-            os.system(f"paru --noconfirm -S {app}")
+            os.system(f"yay --noconfirm -S {app}")
         apps_data.close()
     except Exception:
         print(sys.exc_info())
@@ -60,7 +60,7 @@ def setup_config_files():
 while True:
     print(
         """
-    1. install paru
+    1. install yay
     2. install applications
     3. config github-cli
     4. setup config files
@@ -71,7 +71,7 @@ while True:
     user_choice = int(input("Enter choice: "))
 
     if user_choice == 1:
-        install_paru()
+        install_yay()
     elif user_choice == 2:
         install_apps()
     elif user_choice == 3:
