@@ -6,7 +6,6 @@ alsa-utils
 amass-bin
 android-file-transfer
 android-tools
-anydesk-bin
 apache
 archlinux-keyring
 arp-scan
@@ -226,7 +225,6 @@ pipewire-pulse
 pkgconf
 prettier
 procs
-pw-volume
 pyrit
 python
 python-black
