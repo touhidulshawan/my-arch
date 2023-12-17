@@ -3,7 +3,6 @@ acpilight
 adobe-source-han-sans-kr-fonts
 alacritty-git
 alsa-utils
-amass-bin
 android-file-transfer
 android-tools
 apache
@@ -50,6 +49,7 @@ copyq
 cowpatty
 cronie
 crtsh-git
+crunch
 dbeaver
 debugedit
 dhcpcd
@@ -107,6 +107,7 @@ gnome-themes-extra
 gnuplot
 go
 gparted
+gpick
 grep
 groff
 gruvbox-material-gtk-theme-git
@@ -183,7 +184,6 @@ mediainfo
 meld
 mesa-utils
 metasploit
-miniserve
 mlocate
 mpc
 mpd
@@ -196,6 +196,7 @@ neofetch
 neovim
 neovim-lsp_signature
 netdiscover
+network-manager-applet
 networkmanager
 networkmanager-openvpn
 newsboat
@@ -205,10 +206,12 @@ nmap
 noto-fonts
 noto-fonts-emoji
 ntfs-3g
+obs-studio
 odt2txt
 onefetch
 openbsd-netcat
 opendoas
+openshot
 openvpn
 optipng
 otf-openmoji
@@ -310,6 +313,7 @@ tidy
 tokei
 traceroute
 trash-cli
+trufflehog
 ttf-cascadia-code
 ttf-dejavu
 ttf-fira-code
@@ -333,6 +337,7 @@ unrar
 urlscan
 uutils-coreutils
 vdpauinfo
+vim
 vulkan-intel
 vulkan-mesa-layers
 w3m
@@ -363,7 +368,6 @@ yaml-language-server
 yarn
 yay
 yt-dlp
-ytfzf
 zaproxy
 zathura
 zathura-cb
