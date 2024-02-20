@@ -7,7 +7,6 @@ android-file-transfer
 android-tools
 apache
 archlinux-keyring
-arjun
 arp-scan
 aspell
 aspell-en
@@ -53,9 +52,7 @@ crunch
 dbeaver
 debugedit
 dhcpcd
-dipc
 direnv
-discord
 diskonaut
 dnsmasq
 doasedit-alternative
@@ -81,6 +78,7 @@ ffmpeg4.4
 ffmpegthumbnailer
 ffuf-git
 file
+file-roller
 findutils
 firefox
 fish
@@ -136,6 +134,7 @@ hydra
 hyphen-en
 i2c-tools
 impacket
+inkscape
 intel-compute-runtime
 intel-gpu-tools
 intel-media-driver
@@ -185,6 +184,7 @@ meld
 mesa-utils
 metasploit
 mlocate
+mousepad
 mpc
 mpd
 mpv
@@ -211,7 +211,6 @@ odt2txt
 onefetch
 openbsd-netcat
 opendoas
-openshot
 openvpn
 optipng
 otf-openmoji
@@ -268,6 +267,7 @@ reaver
 responder
 ripgrep
 rlwrap
+rofi
 rot13
 rshijack
 rsync
@@ -337,7 +337,6 @@ unrar
 urlscan
 uutils-coreutils
 vdpauinfo
-vim
 vulkan-intel
 vulkan-mesa-layers
 w3m
@@ -367,6 +366,7 @@ xterm
 yaml-language-server
 yarn
 yay
+yewtube-git
 yt-dlp
 zaproxy
 zathura
