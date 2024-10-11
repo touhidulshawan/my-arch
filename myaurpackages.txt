@@ -1,0 +1,17 @@
+auto-cpufreq
+awesome-freedesktop-git
+bashmount
+betterlockscreen-git
+brillo
+doasedit-alternative
+gimp-extras
+gimp-plugin-beautify
+i3lock-color
+lain-git
+olive
+olive-community-effects-git
+otf-openmoji
+papirus-folders-git
+ttf-freebanglafont
+ttf-ms-fonts
+xppenlinux-v3

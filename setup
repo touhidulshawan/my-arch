@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Check if the file exists
+if [[ ! -f "./mypackages.txt" ]]; then
+    echo "Error: packages-list.txt file not found!"
+    exit 1
+fi
+
+# Read the file and install each package
+while IFS= read -r app; do
+    echo "[+] Installing $app"
+    doas pacman --noconfirm -S "$app"
+done < "./mypackages.txt"
+
+# Run GitHub CLI configuration
+./config_gh.sh
+
+# Setup the dotfiles
+./dotfiles.sh

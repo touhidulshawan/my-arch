@@ -1,0 +1,38 @@
+#!/usr/bin/env sh
+
+echo "Dotfiles setup is in progress..."
+
+# Create .dotfiles directory
+mkdir "$HOME/.dotfiles"
+if [ $? -ne 0 ]; then
+    echo "Error: Failed to create $HOME/.dotfiles directory"
+    exit 1
+fi
+
+# Clone the bare repository
+git clone --bare git@github.com:touhidulshawan/dotfiles.git "$HOME/.dotfiles"
+if [ $? -ne 0 ]; then
+    echo "Error: Failed to clone the dotfiles repository"
+    exit 1
+fi
+
+# Define the config function for git operations
+config() {
+    /usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME "$@"
+}
+
+# Checkout dotfiles to the home directory
+config checkout
+if [ $? -ne 0 ]; then
+    echo "Error: Failed to checkout dotfiles. Please resolve any conflicts manually."
+    exit 1
+fi
+
+# Hide untracked files in the status
+config config status.showUntrackedFiles no
+if [ $? -ne 0 ]; then
+    echo "Error: Failed to set configuration for hiding untracked files."
+    exit 1
+fi
+
+echo "Dotfiles setup completed successfully."
