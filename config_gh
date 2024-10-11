@@ -1,2 +1,4 @@
+#!/usr/bin/env sh
+
 echo "Configuration of GitHub CLI"
 gh auth login
