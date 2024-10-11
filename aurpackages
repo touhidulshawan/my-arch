@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# Define the target directory and file path
+TARGET_DIR="$HOME/MyAurPackages"
+PACKAGE_LIST="$HOME/my-arch/myaurpackages.txt"
+
+# Create the directory if it doesn't exist
+if [[ ! -d "$TARGET_DIR" ]]; then
+    echo "Creating directory $TARGET_DIR"
+    mkdir "$TARGET_DIR"
+    
+    if [ $? -ne 0 ]; then
+        echo "Error: Failed to create directory $TARGET_DIR"
+        exit 1
+    fi
+fi
+
+# Check if myaurpackages.txt exists
+if [[ ! -f "$PACKAGE_LIST" ]]; then
+    echo "Error: $PACKAGE_LIST file not found!"
+    exit 1
+fi
+
+# Change to the target directory
+cd "$TARGET_DIR"
+
+# Read each package name from the file and clone from AUR
+while IFS= read -r package; do
+    echo "[+] Cloning $package from AUR"
+    git clone "https://aur.archlinux.org/${package}.git"
+    
+    # Check if git clone was successful
+    if [ $? -ne 0 ]; then
+        echo "Error: Failed to clone $package"
+    else
+        echo "Successfully cloned $package"
+    fi
+done < "$PACKAGE_LIST"
+
+echo "Cloning process completed in $TARGET_DIR."
