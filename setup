@@ -11,9 +11,3 @@ while IFS= read -r app; do
     echo "[+] Installing $app"
     doas pacman --noconfirm -S "$app"
 done < "./mypackages.txt"
-
-# Run GitHub CLI configuration
-./config_gh
-
-# Setup the dotfiles
-./dotfiles
