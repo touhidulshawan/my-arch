@@ -10,7 +10,6 @@ i3lock-color
 lain-git
 olive
 olive-community-effects-git
-otf-openmoji
 papirus-folders-git
 ttf-freebanglafont
 ttf-ms-fonts
