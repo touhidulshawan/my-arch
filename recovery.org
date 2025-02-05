@@ -1,0 +1,31 @@
+#+TITLE: Recover archlinux
+#+AUTHOR: [[https://github.com/touhidulshawan][Touhidul Shawan]]
+#+DESCRIPTION: recover instruction for archlinux if something happen that caused boot incorrupt
+#+DATE: 2025-02-05 Wed
+#+OPTIONS: toc:2
+
+* pre-instruction
+download archlinux iso and make bootable pendrive with iso
+
+* Mount
+- Mount root partition ~mount -o subvol=@ /dev/sda2 /mnt~ since i used *brtfs* partition
+- Mount boot partition ~mount /dev/sda1 /mnt/boot~
+
+* Rebuild ~pacman~ database
+- ~arch-chroot /mnt~
+- ~pacman -Sy~
+#+begin_quote
+install neccessary packages or take steps
+#+end_quote
+
+* Rebuild the initramfs
+- ~mkinitcpio -P~
+
+* Reinstall ~system-boot~
+- ~bootctl install~
+- ~bootctl update~ 
+
+* Final
+- ~exit~
+- ~umount -R /mnt~
+- ~reboot~
