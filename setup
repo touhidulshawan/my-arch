@@ -1,8 +1,10 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash 
+
+FILE="./myarchpackages.txt"
 
 # Check if the file exists
-if [[ ! -f "./mypackages.txt" ]]; then
-    echo "Error: packages-list.txt file not found!"
+if [ ! -f "$FILE" ]; then
+    echo "Error: $FILE file not found!"
     exit 1
 fi
 
@@ -10,4 +12,4 @@ fi
 while IFS= read -r app; do
     echo "[+] Installing $app"
     doas pacman --noconfirm -S "$app"
-done < "./mypackages.txt"
+done < "$FILE"
