@@ -30,7 +30,10 @@ edk2-ovmf
 efibootmgr
 elementary-icon-theme
 emacs
+fastfetch
 fd
+feh
+ffmpeg4.4
 firefox
 fisher
 flex
@@ -47,7 +50,6 @@ hyphen-en
 hypridle
 hyprland
 hyprlock
-hyprpaper
 hyprpolkitagent
 hyprshot
 i2c-tools
@@ -111,8 +113,10 @@ rofi-emoji
 rsync
 simple-scan
 smartmontools
+smbclient
 starship
 stylua
+swww
 sxiv
 sysstat
 system-config-printer
@@ -146,6 +150,9 @@ wev
 wtype
 xcursor-vanilla-dmz
 xdg-user-dirs
+xdotool
 xh
+xorg-xrdb
+xorg-xwininfo
 zenity
 zoxide
