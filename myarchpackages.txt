@@ -152,7 +152,6 @@ xcursor-vanilla-dmz
 xdg-user-dirs
 xdotool
 xh
-xorg-xrdb
 xorg-xwininfo
 zenity
 zoxide
