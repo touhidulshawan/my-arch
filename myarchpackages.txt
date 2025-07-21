@@ -108,7 +108,7 @@ efivar
 elementary-icon-theme
 emacs
 enchant
-exfat-utils
+exfatprogs
 exiv2
 exo
 expat
