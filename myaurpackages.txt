@@ -1,13 +1,9 @@
-ack
 acpilight
 auto-cpufreq
 bashmount
 brillo
 doasedit-alternative
-fnm-bin
-otf-openmoji
 shell-color-scripts-git
 ttf-freebanglafont
-wayprompt
 xppenlinux-v3
-yay
+dotare
