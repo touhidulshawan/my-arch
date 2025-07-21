@@ -7,3 +7,4 @@ shell-color-scripts-git
 ttf-freebanglafont
 xppenlinux-v3
 dotare
+pinentry-rofi
