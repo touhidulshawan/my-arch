@@ -1056,7 +1056,7 @@ xorg-xset
 xorg-xwayland
 xorg-xwininfo
 xorg-xhost
-xdg-desktop-portal
+xdg-desktop-portal-hyprland
 xorgproto
 xvidcore
 xxhash
