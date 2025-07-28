@@ -122,6 +122,7 @@ feh
 ffcall
 ffmpeg
 ffmpeg4.4
+ffmpegthumbnailer
 fftw
 file
 filesystem
@@ -987,6 +988,7 @@ ttf-jetbrains-mono-nerd
 ttf-nerd-fonts-symbols-common
 ttf-nerd-fonts-symbols-mono
 ttf-ubuntu-font-family
+tumbler
 twolame
 tzdata
 uchardet
