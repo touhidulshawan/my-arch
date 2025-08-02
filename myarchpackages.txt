@@ -30,12 +30,12 @@ attr
 audacity
 audit
 autoconf
+autoconf-archive
 automake
 avahi
 babl
 base
 bash
-bash-language-server
 bat
 bat-extras
 bc
@@ -53,7 +53,6 @@ brotli
 btop
 bubblewrap
 bzip2
-c-ares
 ca-certificates
 ca-certificates-mozilla
 ca-certificates-utils
@@ -63,9 +62,9 @@ cantarell-fonts
 cblas
 cdparanoia
 chromaprint
+chromium
 cifs-utils
 clang
-cmatrix
 colord
 colord-sane
 compiler-rt
@@ -211,6 +210,7 @@ gtk3
 gtk4
 gtkmm3
 guile
+guile2.2
 gupnp
 gupnp-igd
 gvfs
@@ -244,7 +244,9 @@ icu
 ijs
 imath
 imlib2
+intel-gmmlib
 intel-gpu-tools
+intel-media-driver
 intel-ucode
 iproute2
 iptables
@@ -442,7 +444,6 @@ libnfs
 libnftnl
 libnghttp2
 libnghttp3
-libngtcp2
 libnice
 libnl
 libnm
@@ -518,6 +519,7 @@ libusbmuxd
 libutf8proc
 libuv
 libva
+libva-intel-driver
 libva-utils
 libvdpau
 libverto
@@ -571,6 +573,22 @@ libyuv
 libzip
 licenses
 lilv
+linux
+linux-api-headers
+linux-firmware
+linux-firmware-amdgpu
+linux-firmware-atheros
+linux-firmware-broadcom
+linux-firmware-cirrus
+linux-firmware-intel
+linux-firmware-mediatek
+linux-firmware-nvidia
+linux-firmware-other
+linux-firmware-radeon
+linux-firmware-realtek
+linux-firmware-whence
+linux-headers
+linux-lts
 lldb
 llhttp
 llvm-libs
@@ -631,7 +649,6 @@ nfs-utils
 nfsidmap
 nm-connection-editor
 nmap
-nodejs
 noto-fonts-emoji
 npth
 nspr
@@ -650,6 +667,7 @@ opencore-amr
 opencv
 opendoas
 openexr
+openh264
 openjpeg2
 openssh
 openssl
@@ -888,6 +906,7 @@ rofi
 rofi-emoji
 rpcbind
 rsync
+rtkit
 rubberband
 sane
 sbc
@@ -904,7 +923,6 @@ signon-kwallet-extension
 signon-plugin-oauth2
 signon-ui
 signond
-simdjson
 simple-scan
 slang
 slop
@@ -981,12 +999,13 @@ tslib
 ttf-fira-code
 ttf-fira-mono
 ttf-fira-sans
-ttf-font-awesome
 ttf-hack-nerd
 ttf-jetbrains-mono
 ttf-jetbrains-mono-nerd
+ttf-liberation
 ttf-nerd-fonts-symbols-common
 ttf-nerd-fonts-symbols-mono
+ttf-roboto
 ttf-ubuntu-font-family
 tumbler
 twolame
@@ -1012,6 +1031,7 @@ vmaf
 volume_key
 vsftpd
 vulkan-icd-loader
+vulkan-intel
 wavpack
 waybar
 wayland
@@ -1024,6 +1044,7 @@ wildmidi
 wireplumber
 wl-clipboard
 woff2
+woff2-font-awesome
 wpa_supplicant
 wtype
 wxwidgets-common
@@ -1042,6 +1063,8 @@ xcb-util-wm
 xcur2png
 xcursor-vanilla-dmz
 xdg-dbus-proxy
+xdg-desktop-portal
+xdg-desktop-portal-hyprland
 xdg-user-dirs
 xdg-utils
 xdotool
@@ -1051,14 +1074,13 @@ xkeyboard-config
 xorg-fonts-encodings
 xorg-server-common
 xorg-setxkbmap
+xorg-xhost
 xorg-xkbcomp
 xorg-xprop
 xorg-xrandr
 xorg-xset
 xorg-xwayland
 xorg-xwininfo
-xorg-xhost
-xdg-desktop-portal-hyprland
 xorgproto
 xvidcore
 xxhash
