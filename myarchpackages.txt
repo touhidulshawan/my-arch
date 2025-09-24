@@ -159,7 +159,7 @@ smbclient
 starship
 stylua
 sway
-swww
+swaybg
 sxiv
 sysstat
 system-config-printer
