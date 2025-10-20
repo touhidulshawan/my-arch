@@ -71,7 +71,6 @@ hypridle
 hyprland
 hyprlock
 hyprpicker
-hyprpolkitagent
 hyprshot
 i2c-tools
 intel-gpu-tools
@@ -136,6 +135,7 @@ pkgconf
 pocl
 pop-gtk-theme
 pop-icon-theme
+polkit-kde-agent
 procs
 psalm
 python-cairosvg
@@ -422,6 +422,7 @@ xdg-user-dirs
 xdotool
 xh
 xorg-xrdb
+xorg-xhost
 yt-dlp
 zathura
 zathura-cb
