@@ -1,6 +1,5 @@
 bashmount 
 brillo
-brillo-debug 
 doasedit-alternative 
 shell-color-scripts-git 
 ttf-freebanglafont 
