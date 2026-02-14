@@ -214,6 +214,8 @@ xorg-xhost
 xorg-xinput
 xorg-xrdb
 xorg-xwayland
+xdg-desktop-portal-gtk
+xwayland-satelite
 yt-dlp
 zathura
 zathura-cb
